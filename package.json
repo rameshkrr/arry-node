@@ -15,7 +15,7 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/vigneshAltius/unifi_node_magento#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
     "csvtojson": "^2.0.8",
